@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empaque.API", "Empaque.API\Empaque.API.csproj", "{EAC58342-0F7E-4AA7-BA97-40A4B883B4E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC58342-0F7E-4AA7-BA97-40A4B883B4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC58342-0F7E-4AA7-BA97-40A4B883B4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC58342-0F7E-4AA7-BA97-40A4B883B4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC58342-0F7E-4AA7-BA97-40A4B883B4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FB93ED5-F5D6-4293-91E7-0DEAB53BEA0C}
+	EndGlobalSection
+EndGlobal
